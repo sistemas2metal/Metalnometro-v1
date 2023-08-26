@@ -1,2 +1,2 @@
 # Metalnometro-v1
-Pequeño sistema de valoraciones
+Sistema de valoraciones para clientes y empleados
